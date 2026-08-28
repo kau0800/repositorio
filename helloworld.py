@@ -1,3 +1,2 @@
-import math
-
+#import math
 print('hello world!')
